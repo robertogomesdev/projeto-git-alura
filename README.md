@@ -1,10 +1,12 @@
-# Exercícios de Lógica de Programação em Java <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="60" height="60"/>
+# Projeto Número Secreto :tada:
 # :page_with_curl: Sobre
-Este repositório contém exercícios realizados durante e após o curso **Java Primeiros Passos: Lógica de Programação e Algoritmos**, ministrado pelo professor **Nélio Alves**. Os desafios foram retirados do site URI Judge e incluem tanto problemas da plataforma quanto exercícios propostos pelo professor.
-# ![Static Badge](https://img.shields.io/badge/Status-Em%20constru%C3%A7%C3%A3o-yellow)
+Projeto exemplo usado no curso **Git e GitHub: compartilhando e colaborando em projetos** *da Alura*.
+# ![Static Badge](https://img.shields.io/badge/Status-conclu%C3%ADdo-brightgreen)
 # :computer: Tecnologias
 <div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70" height="70"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div>
 
 # :construction_worker: Autor
